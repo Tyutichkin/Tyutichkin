@@ -1,16 +1,28 @@
-### Hi there 👋
+ # 📍About me: 
+ #####  🎓 Study:  _software engineering at_ ___BMSTU___ _(IU7 - 1 course)_
+ ##### 🥈 Was a __prize-winner__ of the Olympiad "[Step into the Future](https://olymp.bmstu.ru/ru/front "Goint to site")" (2nd degree) from the __BMSTU__
 
-<!--
-**Tyutichkin/Tyutichkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ##### __⌨️ I have experience in programming languages:__
+ * ##### _C ++_
+ * ##### _Java_
+ * ##### _Python_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### __🎯 Currently studying:__
+* ##### _Python_
+* ##### _Tkniter_
+
+
+##### __🔎 Going to learn__: 
+* ##### _Django_
+* ##### _Java_
+* ##### _Spring_
+* ##### _SQLite3_
+* ##### _PostgreSQL_
+* ##### _Develop mobile apps_
+___
+# Contacts:
+  * #### *📨 tg: t.me/OhShitBiznesman*
+  * #### *📲 vk: vk.com/mamkinchertyaga*
+  * ##### *📬 mail: dokmakrus@gmail.com*
