@@ -25,6 +25,6 @@
 * #### _Develop mobile apps_
 ___
 # Contacts:
-  * #### *📨 tg: t.me/OhShitBiznesman*
-  * #### *📲 vk: vk.com/mamkinchertyaga*
+  * #### *📨 tg: [t.me/OhShitBiznesman](t.me/OhShitBiznesman "Перейти в Telegram")*
+  * #### *📲 vk: [vk.com/mamkinchertyaga](https://vk.com/mamkinchertyaga "Перейти в VK")*
   * #### *📬 mail: dokmakrus@gmail.com*
