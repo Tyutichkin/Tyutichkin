@@ -1,4 +1,4 @@
-[![Tyutichkin's GitHub Banner](./assets/Semyon_Tyutichkin-3.png)](t.me/OhShitBiznesman)
+[![Tyutichkin's GitHub Banner](./assets/Semyon_Tyutichkin-3.png)](https://t.me/OhShitBiznesman)
 
 # 📍About me: 
  ###  🎓 Study:  _software engineering at_ ___BMSTU___ _(IU7 - 1 course)_
