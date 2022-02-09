@@ -12,6 +12,7 @@
 
 ### __🎯 Currently studying:__
 * #### _Python_
+* #### _C_
 ___
 # Contacts:
   * #### *📨 tg: [t.me/OhShitBiznesman](https://t.me/OhShitBiznesman "Перейти в Telegram")*
