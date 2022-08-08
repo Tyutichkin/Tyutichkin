@@ -1,5 +1,5 @@
 # 📍About me: 
- ###  🎓 Study:  _software engineering at_ ___BMSTU___ _(IU7 - 1 course)_
+ ###  🎓 Study:  _software engineering at_ ___BMSTU___ _(IU7 - 2 course)_
 
 ### __🎯 Currently studying:__ _Python_, _C_
 ___
